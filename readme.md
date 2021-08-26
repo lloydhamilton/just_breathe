@@ -1,10 +1,8 @@
 
 ![xplenty](xplenty.png)
---
 
 <center><h1>What is the World Data Pipeline Championship?</h1></center> 
 
---
 
 The Data Pipeline Championship is an event in August 2021 bringing together hundreds of data engineers from around the world to compete for $10,000 in prizes.
 
@@ -12,11 +10,9 @@ Participants are challenged to create the most interesting datasets and data pip
 
 At the end of the competition, the community voted on submissions, and finalists was judged by a panel of senior data engineers from multiple companies. More details can be found [here](https://www.datapipelinewc.com)
 
---
 
 <center><h1>Competition Submission</h1></center> 
 
---
 
 ### Context
 
@@ -24,7 +20,6 @@ The Just Breathe ETL pipeline aims to connect people with their immediate surrou
  
 ![image](Context.png)
 
---
 
 ### API's used
 
@@ -42,7 +37,6 @@ The Just Breathe ETL pipeline aims to connect people with their immediate surrou
 12.	Countriesnow (https://countriesnow.space)
 
 
---
 
 ### Pipeline Description
 
