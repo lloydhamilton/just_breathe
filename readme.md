@@ -12,6 +12,8 @@ At the end of the competition, the community voted on submissions, and finalists
 
 Please view the video introduction [here](https://drive.google.com/file/d/1-6Od-d41dUmUPlIuhexzI5AeWrGIU6Nt/view?usp=sharing)
 
+Please view this [link](https://pixe.la/@roberto6168a109cd) for demo page
+
 
 <center><h1>Competition Submission</h1></center> 
 
