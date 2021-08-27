@@ -51,5 +51,5 @@ The ETL pipeline gets dummy profiles from dummpyapi.io and extracts useful locat
 ![highlvl2](high_level_2.png)
 
 ### Pipeline output
-Data from Ambee pertaining to the user’s local air conditions such as Nitrogen Dioxide, particulate matter, and air quality indexes are visualised via pixe.la. Data is visualised similar to that of a github commit chart. The final aggregation of data will include data pertaining to air quality, weather information and current environmental news related to each user's location.
+Data from Ambee pertaining to the user’s local air conditions such as Nitrogen Dioxide, particulate matter, and air quality indexes are visualised via pixe.la. Pixela creates visualisations similar to that of a github commit chart. As a data analyst, data pertaining to each individual's air quality, weather radar and local environmental news are avaliable for downstream data analysis.
 ![output](final_product.png)
